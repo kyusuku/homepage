@@ -17,6 +17,7 @@ html {
 
 body {
     min-height: 100vh;
+    padding: 100px;
 }
 
 .gradient-background {
@@ -47,8 +48,6 @@ button:hover {
 
 header {
     display: flex;
-    
-    padding: 100px;
     border-radius: 15px;
 }
 
