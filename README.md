@@ -10,7 +10,7 @@ Homepage is a browser-based web project created as part of my journey through Th
 
 ## Try It Out
 
-👉 You can view and interact with the Homepage project here: [My Homepage](https://kyusukue.github.io/homepage/)  
+👉 You can view and interact with the Homepage project here: [My Homepage](https://kyusuku.github.io/homepage/)  
 
 ## Features
 
